@@ -1,5 +1,5 @@
 ![Graphics and UI Designer and Developer](https://github.com/GovanDBT/GovanDBT/blob/main/banner.png)
-## Thembi Govan Dibotelo ![Profile views](https://gpvc.arturio.dev/GovanDBT) 
+# Thembi Govan Dibotelo ![Profile views](https://gpvc.arturio.dev/GovanDBT) 
 Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and content designs and developement for websites and Mobile Apps. I enjoy learning new languages like HTML, CSS, JavaScript, React, PHP and coming up with beautiful and innovative ideas and mockup for websites and apps using Abobe XD, Photoshop and Adobe Illustrator. I study Computer Science at the University Of Botswana and mostly surrounded my work and study around Web App Development, Software Engineering, Data Science and Networking.
 
 ## Skills And Experience
@@ -16,6 +16,12 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## Design Tools
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Star In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Govan_Dibotelo-0e76a8.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/govan-dibotelo-2b84861a6) 
