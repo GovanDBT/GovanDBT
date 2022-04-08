@@ -35,8 +35,9 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 * Apply computational and algorithmic problem solving skills learned in Computer Science
 
 ## Let Work Together
+I would be happy to join you in your journey and experience. I most enjoy working with others and learning new methods of programming and languages by collaborating with other, feel free to contact me 👌😉.
 
-## Statistics
+## 📚 Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GovanDBT&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovanDBT)](https://github.com/anuraghazra/github-readme-stats)
 
   
