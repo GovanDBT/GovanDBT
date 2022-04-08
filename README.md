@@ -9,8 +9,8 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/govan-dibotelo-2b84861a6) 
 [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/GovanMade) 
 [![Reddit](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/r.svg)](https://reddit.com/u/GovanLegacy) 
-[![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/Govan-Dibotelo)
-[![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/Govan-Dibotelo)
+[![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/Govan Dibotelo)
+[![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/Govan Dibotelo)
 [![WhatsApp](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/wa.svg)](https://wa.me/)
 
 ## Recent Project
