@@ -5,4 +5,4 @@ Facebook =>
 LinkedIn =>
 I study Computer Science at the University Of Botswana and mostly surrounded my work and study around Web App Development, Software Engineering, Data Science and Networking.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govan Dibotelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GovanDBT)](https://github.com/anuraghazra/github-readme-stats)
