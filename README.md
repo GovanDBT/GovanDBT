@@ -6,11 +6,11 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 
 
 ## Star In Touch
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/govan-dibotelo-2b84861a6) 
-[![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/GovanMade) 
-[![Reddit](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/r.svg)](https://reddit.com/u/GovanLegacy) 
-[![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/govan.dibotelo)
-[![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/govan.legacy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govan_Dibotelo-0e76a8.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/govan-dibotelo-2b84861a6) 
+[![Twitter](https://img.shields.io/badge/Twitter-GovanMade-00acee.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/GovanMade) 
+[![Reddit](https://img.shields.io/badge/Reddit-GovanLegacy-ff4500.svg?&style=for-the-badge&logo=reddit)](https://reddit.com/u/GovanLegacy) 
+[![Facebook](https://img.shields.io/badge/Facebook-Govan_Dibotelo-3b5998.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/govan.dibotelo)
+[![Instagram](https://img.shields.io/badge/Instagram-govan.legacy-bc2a8d.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/govan.legacy)
 
 ## Recent Project
 
