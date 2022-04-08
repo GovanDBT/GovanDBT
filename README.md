@@ -1,5 +1,5 @@
 ![Graphics and UI Designer and Developer](https://github.com/GovanDBT/GovanDBT/blob/main/banner.png)
-## Thembi Govan Dibotelo
+## Thembi Govan Dibotelo ![Profile views](https://gpvc.arturio.dev/GovanDBT) 
 Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and content designs and developement for websites and Mobile Apps. I enjoy learning new languages like HTML, CSS, JavaScript, React, PHP and coming up with beautiful and innovative ideas and mockup for websites and apps using Abobe XD, Photoshop and Adobe Illustrator. I study Computer Science at the University Of Botswana and mostly surrounded my work and study around Web App Development, Software Engineering, Data Science and Networking.
 
 ## Skills And Experience
@@ -25,13 +25,18 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 [![Instagram](https://img.shields.io/badge/Instagram-govan.legacy-bc2a8d.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/govan.legacy)
 
 ## Recent Project
+![Current Project](https://github.com/GovanDBT/GovanDBT/blob/main/Screenshot%20(39).png)
+ 
 
 ## Aspiration
+* Be able to apply problem solving skills to formalize general problem statements into precise algorithmic solutions
+* To become a proficient programmer
+* To have experience in conduting research and complete large projects with team effort
+* Apply computational and algorithmic problem solving skills learned in Computer Science
 
 ## Let Work Together
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovanDBT)](https://github.com/anuraghazra/github-readme-stats)
+## Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GovanDBT&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovanDBT)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GovanDBT&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/GovanDBT)  
+  
