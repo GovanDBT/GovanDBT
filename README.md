@@ -28,7 +28,7 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 [![Twitter](https://img.shields.io/badge/Twitter-GovanMade-00acee.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/GovanMade) 
 [![Reddit](https://img.shields.io/badge/Reddit-GovanLegacy-ff4500.svg?&style=for-the-badge&logo=reddit)](https://reddit.com/u/GovanLegacy) 
 [![Facebook](https://img.shields.io/badge/Facebook-Govan_Dibotelo-3b5998.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/govan.dibotelo.7/)
-[![Instagram](https://img.shields.io/badge/Instagram-govan.legacy-bc2a8d.svg?&style=for-the-badge&logo=instagram)](https://instagram.com/govan.legacy)
+[![Instagram](https://img.shields.io/badge/Instagram-govan.legacy-bc2a8d.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/govan.made/)
 
 ## Recent Project
 ![Current Project](https://github.com/GovanDBT/GovanDBT/blob/main/Screenshot%20(39).png)
