@@ -1,6 +1,6 @@
 ![Graphics and UI Designer and Developer](https://github.com/GovanDBT/GovanDBT/blob/main/banner.png)
-# Thembi Govan Dibotelo ![Profile views](https://gpvc.arturio.dev/GovanDBT) 
-Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and content designs and developement for websites and Mobile Apps. I enjoy learning new languages like HTML, CSS, JavaScript, React, PHP and coming up with beautiful and innovative ideas and mockup for websites and apps using Abobe XD, Photoshop and Adobe Illustrator. I study Computer Science at the University Of Botswana and mostly surrounded my work and study around Web App Development, Software Engineering, Data Science and Networking.
+# Thembi Govan Dibotelo
+Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and content designs and development for websites and Mobile Apps. I enjoy learning new languages like HTML, CSS, JavaScript, React, and PHP and coming up with beautiful and innovative ideas and mockups for websites and apps using Adobe XD, Photoshop, and Adobe Illustrator. I study Computer Science at the University Of Botswana and mostly surrounded my work and study around Web App Development, Software Engineering, Data Science, and Networking.
 
 ## Skills And Experience
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,17 +32,17 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 
 ## Recent Project
 ![Current Project](https://github.com/GovanDBT/GovanDBT/blob/main/Screenshot%20(39).png)
- This is a website where students in Botswana can have access to school resources online, its something that is not new but we are hoping it can bring about a change to how students are taught in Botswana. Students from Primary all the way to senior school can have unlimited access to school material like books, test papers, notes and more all in one place.
+ This is a website where students in Botswana can have access to school resources online, it's something that is not new but we are hoping it can bring about a change to how students are taught in Botswana. Students from Primary to senior school can have unlimited access to school materials like books, test papers, notes, and more all in one place.
 😉 https://github.com/GovanDBT/Prep
 
 ## Aspiration
-* Be able to apply problem solving skills to formalize general problem statements into precise algorithmic solutions
+* Be able to apply problem-solving skills to formalize general problem statements into precise algorithmic solutions
 * To become a proficient programmer
-* To have experience in conduting research and complete large projects with team effort
-* Apply computational and algorithmic problem solving skills learned in Computer Science
+* To have experience in conducting research and completing large projects with team effort
+* Apply computational and algorithmic problem-solving skills learned in Computer Science
 
 ## Let Work Together
-I would be happy to join you in your journey and experience. I most enjoy working with others and learning new methods of programming and languages by collaborating with other, feel free to contact me 👌😉.
+I would be happy to join you in your journey and experience. I most enjoy working with others and learning new methods of programming and languages by collaborating with others, feel free to contact me 👌😉.
 
 ## 📚 Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GovanDBT&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovanDBT)](https://github.com/anuraghazra/github-readme-stats)
