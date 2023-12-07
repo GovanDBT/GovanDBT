@@ -23,13 +23,6 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-## Stay In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govan_Dibotelo-0e76a8.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/govan-dibotelo-2b84861a6) 
-[![Twitter](https://img.shields.io/badge/Twitter-GovanMade-00acee.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/GovanMade) 
-[![Reddit](https://img.shields.io/badge/Reddit-GovanLegacy-ff4500.svg?&style=for-the-badge&logo=reddit)](https://reddit.com/u/GovanLegacy) 
-[![Facebook](https://img.shields.io/badge/Facebook-Govan_Dibotelo-3b5998.svg?&style=for-the-badge&logo=facebook)](https://www.facebook.com/govan.dibotelo.7/)
-[![Instagram](https://img.shields.io/badge/Instagram-govan.legacy-bc2a8d.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/govan.made/)
-
 ## Recent Project
 ### Thembi Dibotelo Portfolio
 ![design](https://github.com/GovanDBT/GovanDBT/assets/62579660/2c0e5103-84e4-4aba-b1ab-5a748f739f40)
