@@ -31,9 +31,9 @@ Hi there, my name is Thembi Govan Dibotelo from Botswana. I do graphics and cont
 [![Instagram](https://img.shields.io/badge/Instagram-govan.legacy-bc2a8d.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/govan.made/)
 
 ## Recent Project
-![Current Project](https://github.com/GovanDBT/GovanDBT/blob/main/Screenshot%20(39).png)
- This is a website where students in Botswana can have access to school resources online, it's something that is not new but we are hoping it can bring about a change to how students are taught in Botswana. Students from Primary to senior school can have unlimited access to school materials like books, test papers, notes, and more all in one place.
-😉 https://github.com/GovanDBT/Prep
+### Thembi Dibotelo Portfolio
+![design](https://github.com/GovanDBT/GovanDBT/assets/62579660/2c0e5103-84e4-4aba-b1ab-5a748f739f40)
+This website is a portfolio of myself and is a reflection of who I am and who I wanna become.
 
 ## Aspiration
 * Be able to apply problem-solving skills to formalize general problem statements into precise algorithmic solutions
